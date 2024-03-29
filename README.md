@@ -9,7 +9,7 @@ In this coding challenge, I had to build a simple menu display system for a fict
  - JavaScript
 
 ## Reflections
-I had fun in this challenge and did not really have any major challenges. At some point, I only struggled with updating the total variable but solved the problem by declaring the totalPrice variable outside the functions.
+I had fun in this challenge and did not really have any major challenges. At some point, I only struggled with updating the order total but solved the problem by declaring the totalPrice variable outside the functions.
 
 
 
